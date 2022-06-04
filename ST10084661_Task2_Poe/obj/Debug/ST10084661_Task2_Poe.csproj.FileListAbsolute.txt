@@ -1,0 +1,32 @@
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.AssemblyReference.cache
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.CoreCompileInputs.cache
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe.config
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.pdb
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\source\repos\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.pdb
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe.config
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.pdb
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.AssemblyReference.cache
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.CoreCompileInputs.cache
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\Desktop\Year 2\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.pdb
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe.config
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.pdb
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.AssemblyReference.cache
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.CoreCompileInputs.cache
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\Desktop\Year 2\Programming\PART 2 FINAL\ST10084661_Task2_Poe\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.pdb
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe.config
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\bin\Debug\ST10084661_Task2_Poe.pdb
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.AssemblyReference.cache
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.csproj.CoreCompileInputs.cache
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.exe
+C:\Users\Ayuri\Desktop\Year 2\Programming\ST10084661_TASK2_POE_AyuriSingh\ST10084661_BudgetPlannerV2.1\ST10084661_Task2_Poe\obj\Debug\ST10084661_Task2_Poe.pdb
